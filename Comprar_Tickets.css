@@ -1,0 +1,23 @@
+#header-nav .nav-link{
+    color: #adb5bd;
+}
+
+#header-nav .nav-link:hover, #header-nav .nav-link:focus {
+    color: white;
+}
+
+#comprartickets{
+    color: green;
+}
+
+#comprartickets:hover, #comprartickets:focus {
+    color: rgb(31, 160, 38);
+}
+
+#footer-nav .nav-link{
+    color: white;
+}
+
+#footer-nav .nav-link:hover, #footer-nav .nav-link:focus {
+    color: gray;
+}
